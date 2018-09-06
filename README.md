@@ -1,10 +1,9 @@
-## SteemData
-The goal of the SteemData project is to make data from the
-STEEM blockchain more accessible to developers, researchers and 3rd party services.
+## WeParse
+The goal of this project is to make data from the WeYouMe, Bitshares, STEEM, and Graphene-based blockchains more accessible to developers, researchers and 3rd party services.
 
-This repo contains utilities for parsing STEEM blockchain, retrieving price feeds and some extra helpers.
+This repo contains utilities for parsing WeYouMe, STEEM and Bitshares blockchain data sets, retrieving price feeds and some extra helpers.
 
-For the main repo behind SteemData functionality, see [steemdata-mongo](https://github.com/SteemData/steemdata-mongo).
+For the main repo behind WeParse functionality, see [steemdata-mongo](https://github.com/SteemData/steemdata-mongo).
 
 ### Contribute
 Needless to say, PR's are welcome :)
